@@ -114,8 +114,8 @@ int main(void)
 
 //	struct ProductStore cokeStore = {coke, 20};
 //	struct ProductStore breadStore = {bread, 2};
-//	dominic.shopList[paul.index++] = cokeStore;
-//	dominic.shopList[paul.index++] = breadStore;
+//	paul.shopList[paul.index++] = cokeStore;
+//	paul.shopList[paul.index++] = breadStore;
 //	printCustomer(paul);
 //	printf("The shop has %d of the product %s\n", cokeStore.amount, cokeStore.prod.name);
 
