@@ -115,3 +115,22 @@ int main(void)
 
 	return 0;
 }
+
+
+Shop has 0.00 in money
+PRODUCT NAME: Bread 
+PRODUCT COST: 0.70
+----------------
+The shop has 30 of the above
+PRODUCT NAME: Spaghetti 
+PRODUCT COST: 1.20
+----------------
+The shop has 100 of the above
+PRODUCT NAME: Tomato Sauce 
+PRODUCT COST: 0.80
+----------------
+The shop has 100 of the above
+PRODUCT NAME: Big Bags 
+PRODUCT COST: 2.50
+----------------
+The shop has 4 of the above
