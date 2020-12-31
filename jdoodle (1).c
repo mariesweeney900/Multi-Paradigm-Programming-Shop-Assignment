@@ -1,3 +1,7 @@
+
+#Code compiled online at https://www.jdoodle.com/c-online-compiler/#
+#Code adapted from https://learnonline.gmit.ie/pluginfile.php/136452/mod_resource/content/0/shop.c
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -105,9 +109,9 @@ int main(void)
 
 //	struct ProductStore cokeStore = {coke, 20};
 //	struct ProductStore breadStore = {bread, 2};
-//	dominic.shopList[dominic.index++] = cokeStore;
-//	dominic.shopList[dominic.index++] = breadStore;
-//	printCustomer(dominic);
+//	dominic.shopList[paul.index++] = cokeStore;
+//	dominic.shopList[paul.index++] = breadStore;
+//	printCustomer(paul);
 //	printf("The shop has %d of the product %s\n", cokeStore.amount, cokeStore.prod.name);
 
 	struct Shop shop = createAndStoreShop();
